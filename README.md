@@ -61,3 +61,13 @@ This project helps understand IT service demand patterns and provides a visual a
 
 ### 3. Prediction & Model Performance
 ![Prediction & Model Performance](Prediction-Model-Performance.png)
+
+
+## Project Files
+
+| File Name | Description |
+|---|---|
+| IT Services Demand Prediction.pbix | Interactive Power BI dashboard |
+| it_service_demand_100_rows.csv | Main dataset used for demand analysis |
+| IT_Demand_Analysis_Results.xlsx | Analysis results and model performance data |
+| README.md | Project documentation |
