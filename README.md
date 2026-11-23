@@ -50,3 +50,14 @@ Internship Project
 
 ## Conclusion
 This project helps understand IT service demand patterns and provides a visual approach to analyzing and evaluating demand predictions.
+
+## Dashboard Screenshots
+
+### 1. IT Demand Overview
+![IT Demand Overview](IT-Demand-Overview.png)
+
+### 2. Service Demand Analysis
+![Service Demand Analysis](Service-Demand-Analysis.png)
+
+### 3. Prediction & Model Performance
+![Prediction & Model Performance](Prediction-Model-Performance.png)
