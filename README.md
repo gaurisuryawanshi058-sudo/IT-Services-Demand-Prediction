@@ -2,6 +2,14 @@
 
 ## Project Overview
 IT Services Demand Prediction is an internship project developed to analyze IT service request patterns and predict future demand using machine learning models. The project presents key insights through an interactive Power BI dashboard.
+## Project Contributors
+
+This project was collaboratively developed by:
+
+1. **Gauri Rajiv Suryawanshi**
+2. **Vaishnavi Ashok Mahangare**
+
+Both contributors collaboratively worked on the development of **IT Services Demand Prediction**.
 
 ## Objectives
 - Analyze IT service request demand.
